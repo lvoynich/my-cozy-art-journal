@@ -13,7 +13,7 @@ Building this planner required solving complex data-handling constraints and bui
 - **`weekly_planner.py`**: The core rendering engine. It handles complex coordinate translations to draw a premium 3D paper stack aesthetic, dynamic bounding margins, and functional layout blocks.
 - **The Navigation Link Tree:** Overcame strict ReportLab link compilation mechanics to bind all 365 unique dates, 12 monthly dividers, and a **Unified Yearly Index Page** into a zero-error internal hyperlink routing network.
 
--### 3. AI Asset Generation & Resourceful Engineering
+### 3. AI Asset Generation & Resourceful Engineering
 - **Generative AI Art Integration:** Leveraged state-of-the-art text-to-image models to generate a custom, minimalist abstract boho line-art graphic. This asset was scaled and embedded directly into the title page using ReportLab's pixel-precise image boundary matrix.
 - **AI-Assisted Pair Programming & Agile Problem-Solving:** Utilized a collaborative development process—combining rigorous technical documentation search via Google with generative AI pair programming—to troubleshoot complex compilation bugs, refactor low-level ReportLab vector calculations, and optimize internal hyperlink trees.
 --
